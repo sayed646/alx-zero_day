@@ -1,1 +1,2 @@
-moka
+#!/bin/bash
+echo "moka"
